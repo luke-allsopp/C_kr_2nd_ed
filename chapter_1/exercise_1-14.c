@@ -1,5 +1,5 @@
 /*exercise 1-14
-program to print a histogram of the frequency of characters in the input
+program to print a histogram of the frequency of characters in the input before an EOF
 */
 
 #include <stdio.h>
